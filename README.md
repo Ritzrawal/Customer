@@ -5,7 +5,7 @@ $ https://github.com/Ritzrawal/Customer.git
 ```
 **_`Navigate to project directory`_**
 ```
- $ cd Manage-Customer
+ $ cd Manage
  $cd client
 ```
 
