@@ -1,7 +1,7 @@
 # Manage-Customer
 **_`Clone the github project`_**
 ```
-$ https://github.com/Ritzrawal/Manage-Customer.git
+$ https://github.com/Ritzrawal/Customer.git
 ```
 **_`Navigate to project directory`_**
 ```
