@@ -5,8 +5,12 @@ $ https://github.com/Ritzrawal/Customer.git
 ```
 **_`Navigate to project directory`_**
 ```
- $ cd Manage
+ $cd Customer
  $cd client
+```
+```
+ $cd Customer
+ $cd server
 ```
 
 **_`Install the dependencies`_**
