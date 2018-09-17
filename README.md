@@ -1,4 +1,5 @@
 # Manage-Customer
+**TO VIEW THE LIVE DEMO**:Click on [Livedemo](https://shielded-citadel-95440.herokuapp.com)
 **_`Clone the github project`_**
 ```
 $ https://github.com/Ritzrawal/Customer.git
